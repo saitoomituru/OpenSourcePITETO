@@ -1,6 +1,8 @@
 # Open Source Potato Chips 🥔
 ## 家庭用 Potato Thermal Technology
 
+[🇺🇸 US English / Texas Nerd Edition](./readme.US-en.md)
+
 > 働かない。でもポテチは食う。  
 > 成果物は食う。有益だった知識は社会へ還元する。
 
@@ -32,6 +34,8 @@
 名付けて、
 
 ## Potato Thermal Technology 家庭版OSS実装
+
+<img src="./img/04-finished-potato-chips.jpg" width="560" alt="完成したオープンソースポテチ">
 
 ---
 
@@ -95,6 +99,8 @@ Cooling
 家庭用スライサーにも個体差があります。
 
 したがって、後述するオーブン工程を固定時間ではなくフィードバック制御します。
+
+<img src="./img/01-frying-and-slicing.jpg" width="560" alt="ジャガイモをスライスしながら揚げるFry工程">
 
 ---
 
@@ -233,6 +239,8 @@ HYPER BINDING
 
 その後、クッキングシート上で余分な油を落とします。
 
+<img src="./img/02-seasoning-and-oil-drain.jpg" width="560" alt="揚げ上がり直後のフレーバー定着と油切り">
+
 ---
 
 ## 5. Oven工程
@@ -247,6 +255,8 @@ HYPER BINDING
 > [!WARNING]
 > **210℃はオーブンの設定温度です。**  
 > **揚げ油を210℃まで加熱するという意味ではありません。**
+
+<img src="./img/03-oven-210c.jpg" width="560" alt="オーブン設定210℃で追い乾燥">
 
 この工程で欲しいのは二度目の「揚げ」ではなく、
 
@@ -462,6 +472,8 @@ POTATO_RECOVERY
 - Oven setpoint: 210℃
 - Human-in-the-loop sampling: 5 min interval
 - Result: **ちゃんとポテチになった 😼🥔**
+
+<img src="./img/04-finished-potato-chips.jpg" width="560" alt="完成したオープンソースポテチ">
 
 ---
 
