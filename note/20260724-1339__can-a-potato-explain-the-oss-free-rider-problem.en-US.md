@@ -198,6 +198,79 @@ We do not need science to erase spirit or spirit to overwrite science.
 
 “Asset” here does not mean a settled property valuation. It means an experience worth documenting, rerunning, and improving.
 
+### Potato incidents when either wheel exceeds its range
+
+The answer is not to blend science and spirit into an average paste or declare either one universal. Each wheel needs a defined range and the ability to stop the other from crossing it.
+
+#### Incident S: spirit overruns safety
+
+```text
+“This potato has a story, soul, and sacred effort.”
+                         ↓
+rot, strange odor, smoke, or a stop condition gets narrated away
+                         ↓
+an extremely niche flavor is declared good for everybody
+                         ↓
+eating, praising, or believing becomes the entry fee
+                         ↓
+belly-pain deployment / health-harm risk
+```
+
+Story, faith, memory, and respect for the cook do not cancel food-safety, allergy, spoilage, or abnormal-heating stop conditions. “Made with soul” is not a safety certificate.
+
+A niche flavor can be valuable to the person who loves it. That value does not guarantee the same effect in another mouth, body, faith, or culture.
+
+#### Incident C: science overruns taste and demand
+
+```text
+safe, uniform, measured, perfectly within process specification
+                         ↓
+“Objectively perfect, therefore delicious.”
+                         ↓
+“This tastes bad to me” is discarded as unscientific noise
+                         ↓
+taste mismatch and missing demand are reduced to customer abuse
+                         ↓
+zero-injury defective inventory
+                         ↓
+wallet pain + warehouse pain + food-waste explosion
+```
+
+Safety and reproducible processing matter. They do not automatically prove preference, demand, or “would eat again.” In-spec does not mean delicious to every observer.
+
+This does not excuse threats, personal attacks, coercion, or abusive customer behavior. It separates those from legitimate signals such as “I do not like this,” “I will not buy it,” or “this flavor is not for me.”
+
+#### Incident B: two wheels with no mutual audit
+
+Using both vocabularies is not coordination if neither can stop the other.
+
+```text
+spirit:  “Science built it, so the soul must be correct.”
+science: “The story sold once, so quality and demand are proven.”
+```
+
+That loop turns science into marketing decoration and spirit into a shield against falsification.
+
+### Appropriate operating ranges
+
+| Question | Primary wheel | Boundary |
+|---|---|---|
+| spoilage, odor, smoke, temperature, process | science, safety, experiment record | narrative cannot cancel a stop condition |
+| good for whom? | mouth, self, culture, memory | personal taste is not universal |
+| can the recipe be rerun? | science, AI, provenance | reproducibility does not imply matching taste |
+| would eat or buy again? | observer review and demand observation | specification does not prove demand |
+| yokai, ninja, potato spirit | presentation and participation | flavor does not prove implementation, safety, or authority |
+| response to a negative review | review classification and dialogue | dislike is not automatically customer abuse |
+
+### Stop conditions
+
+- Do not eat through suspected spoilage, strange odor, smoke, equipment failure, or allergy “for reproducibility.”
+- Do not use “delicious” as a safety certificate.
+- Do not use “safe” as proof of demand, satisfaction, or cultural fit.
+- Name the target observer for a niche flavor before scaling it into universal inventory.
+- Preserve negative logs and classify taste mismatch, quality defect, safety incident, and harassment separately.
+- Before scaling, use a small batch and collect both an objective recipe receipt and subjective taste receipts.
+
 ### Good for whom?
 
 A “delicious” log needs an observer, not just a score.
@@ -417,6 +490,8 @@ Measure whether participants can explain, in their own words:
 - academic evidence and a participant’s experience of OSS spirit can coexist without becoming the same kind of claim.
 - AI is not the tasting subject and cannot validate “delicious” on a person’s behalf;
 - subjective review can be valuable while remaining distinct from objective recipe reproducibility.
+- story cannot override spoilage or safety stops, and specification compliance cannot be stretched into proof of taste or demand;
+- taste mismatch and abusive customer behavior must not be flattened into one category.
 
 ## 11. `[RESULT]`
 

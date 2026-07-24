@@ -57,6 +57,8 @@ If a project provides a structured workspace, manifest, local `AGENTS.md`, note 
 - [ ] Explain the difference between copying a recipe and reproducing its physical result.
 - [ ] Record objective conditions separately from “good to me” or “not my preference.”
 - [ ] Check that the AI did not write as if it personally tasted the chip.
+- [ ] Check that story, soul, or effort did not override rot, odor, smoke, or another safety stop.
+- [ ] Check that safety or specification compliance was not used to infer taste or demand.
 - [ ] If cooking, return conditions, failures, taste, and unknowns in a note.
 
 Eating store-bought chips is enough for the explanation experiment. Nobody must complete a hot-oil experiment to count as a participant.
@@ -107,6 +109,13 @@ observer_authority: self-report
 observer_context:
 observer_effect:
 target_eater_or_world:
+safety_stop_triggered:
+taste_mismatch:
+quality_defect:
+demand_signal:
+harassment_signal:
+unsold_inventory_risk:
+food_loss_risk:
 comparison_oss:
 similarity_found:
 difference_found:
@@ -129,6 +138,8 @@ Do not put personal data, health details, household finances, account credential
 - [ ] Identify one workspace, manifest, or context-rule improvement for the next run.
 - [ ] Record “good for whom?” and how observation or tasting changed the sample or evaluation.
 - [ ] If several observers or Worlds must be managed, produce a handoff receipt for SphereOS Atlantis.
+- [ ] Classify taste mismatch, quality defect, safety incident, and abusive behavior separately.
+- [ ] Do not recommend universal scaling without small-batch taste receipts.
 
 Headcount is not the only measure of research value. A detailed failure from the first participant is still a valid receipt.
 
@@ -140,6 +151,8 @@ Headcount is not the only measure of research value. A detailed failure from the
 - Use guilt to force users to pay.
 - Turn a funny potato into page views while deleting the reproduction-cost problem.
 - Generalize one successful run to every OSS project or non-programmer.
+- Use story or faith to excuse spoilage, allergy, sanitation, or abnormal heating.
+- Treat every negative taste or demand signal as abusive customer behavior.
 
 ## Marketing-cannon candidate
 

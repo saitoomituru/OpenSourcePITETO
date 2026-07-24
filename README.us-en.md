@@ -256,6 +256,8 @@ Codespaces, Copilot, Codex, and similar tools can assist with documents, compari
 
 AI can structure the recipe. Your mouth and subjective experience review whether the chip tastes good. This OSS potato lab preserves both wheels: objective rerun records and the non-fungible personal experience of “delicious.”
 
+Potato spirit does not make a rotten potato safe. Perfect process specifications do not make an unbearable flavor delicious. The two-wheel contract keeps story from canceling safety, keeps safety and uniformity from impersonating demand, and keeps taste mismatch separate from abusive customer behavior.
+
 When the question grows into “good for which observer, in which body state, moment, purpose, and World?”, it routes toward [SphereOS Atlantis](https://github.com/saitoomituru/SphereOS-Atlantis) and its [Context Dimension / D Fold / OAE shelf](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/docs/tutorial/sphere-architecture.ja.md). Today this is a prompt-bound route through documents, PLI, `AGENTS.md`, and the Manifest. The standalone runner, resident daemon, and OAE persistence are not implemented.
 
 For a friendly en-US doorway: a `Yokai Observer` keeps one personal taste experience, while a scoped `Ninja Runner` may someday carry the receipt. The folklore skin grants no secret authority and does not hide consent, provenance, safety, or unfinished engineering.
