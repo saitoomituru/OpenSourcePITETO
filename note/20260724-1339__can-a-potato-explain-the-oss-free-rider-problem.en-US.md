@@ -1,0 +1,297 @@
+# Can a Potato Explain the OSS Free-Rider Problem?
+
+Created: 2026-07-24 13:39 JST  
+Authors: Mitsuru Saito / Codex  
+Status: `[DRAFT]`  
+Types: `[HYPOTHESIS]` `[LOGISTICS]`  
+Source of truth: [Japanese note](20260724-1339__芋でOSSフリーライド問題を説明できるか.ja.md)  
+Translation mode: **en-US adaptation, not an independent claim source**
+
+## 1. Scope
+
+This note asks whether OpenSourcePITETO can help non-technical people understand the free-rider and reproduction-cost problem in open-source ecosystems.
+
+“Free rider” does **not** mean every person following the license is a thief. The institutional problem is:
+
+```text
+benefits from code, knowledge, and recipes spread widely
+                              ↓
+maintenance, explanation, experiments, and living costs
+remain concentrated on a few people
+                              ↓
+availability is not connected to reproducibility
+```
+
+We want to test:
+
+- whether eating chips makes the difference between “available” and “sustainable” easier to explain;
+- whether potatoes, household hardware, GitHub Codespaces, and Codex can create a low-friction entry point;
+- whether a structured workspace, manifest, local context rules, and natural-language agents let non-programmers experience OSS IP stewardship, research, development, and operations;
+- whether contributors can compare this case with resource problems in their own OSS repositories;
+- whether a funny potato narrative can widen the doorway without trivializing the problem;
+- and whether we can forge a “marketing cannon” without turning an untested claim into a fact.
+
+This note does not claim that every OSS project has the same problem. It does not find GitHub, Microsoft, corporate users, or individual users guilty of misconduct. It does not present a final funding, tax, sponsorship, or public-policy mechanism. Codespaces and Codex also cannot cook a physical potato.
+
+Copilot, Codex, and similar agents are not rightsholders, legal counsel, publication authorities, or substitutes for human consent.
+
+## 2. Recipe and revision
+
+- Canonical recipe: [`../README.md`](../README.md)
+- Baseline revision: `693d5bc`
+- Institutional source note:
+  - `ZeroRoomLab-manifest/note/20260724-1321__贈与経済圏と複合貧乏神問題_issue分解.ja.md`
+- Recipe changes: none. This is an explanation, participation, and comparison experiment.
+
+## 3. Existing tools checked
+
+- Searched: [`../lib/`](../lib/)
+- Existing tool: [`../lib/compress_readme_images.py`](../lib/compress_readme_images.py)
+- Reused: not needed because this change adds no images
+- New tool: none
+
+## 4. What the potato case actually proves
+
+### `[FACT]`
+
+- This repository contains a Japanese home-scale potato-chip process and an en-US adaptation.
+- It records one edible physical run with photographs.
+- The recipe and documentation are reusable under the repository license.
+- The `note/` shelf provides rules and a template for recording another potato, appliance, failure, or recovery run.
+- The documents can be forked and edited in Codespaces, a local editor, or a compatible agent environment.
+
+### `[FACT]` What it does not reproduce
+
+- Codespaces and Codex cannot supply the potato, oil, oven, smell, texture, or taste.
+- Forking the README does not reproduce the chips or repair the OSS ecosystem.
+- Stars, forks, and views do not tell us whose living or maintenance costs were sustained.
+
+## 5. Why a potato might work as an explanation device
+
+Code looks infinitely copyable. A non-technical observer can therefore miss the cost of maintaining it. A potato makes the same system visible in a mouth and a kitchen.
+
+| OSS ecosystem | OpenSourcePITETO |
+|---|---|
+| get the source | read the recipe |
+| fork | port the process into your kitchen |
+| build | slice, fry, and finish-dry the potato |
+| test | eat a cooled chip |
+| find a bug | floppy chip, burn, seasoning loss |
+| file an issue | return conditions and failure in a note |
+| maintainer cost | explanation, trials, oil, power, cleanup, human time |
+| downstream benefit | another person avoids the same failure and eats chips |
+
+Copying the recipe does not consume the source file. Creating, testing, photographing, explaining, translating, and maintaining it consumes somebody’s dinner, electricity, time, and body.
+
+If one chip makes that distinction legible, the potato may be a cheap translation layer for an institutional OSS problem.
+
+## 6. Compare it with another OSS repository
+
+Pick one project you maintain, use, or can responsibly observe. Do not expose secrets or another person’s finances. Fill only what you can support.
+
+| Question | OpenSourcePITETO | Your comparison OSS |
+|---|---|---|
+| Who directly uses it? | recipe readers and cooks |  |
+| What benefit spreads? | edible output, avoided failure, knowledge |  |
+| What is cheap to copy? | the documents |  |
+| What costs must be reproduced? | potatoes, oil, power, tools, body, records |  |
+| What maintenance stays invisible? | cleanup, safety checks, translation, note curation |  |
+| Who expects a guarantee? | eater, household, safety boundary |  |
+| What returns upstream today? | forks, notes, optional supply; unmeasured |  |
+| What disappears if it dries up? | updates, comparisons, human-logistics research |  |
+| What must support never buy? | personality, ideology, false claims, exclusivity |  |
+
+Then ask:
+
+1. Is “free to obtain” being mistaken for “free to maintain”?
+2. Are downstream business or research benefits connected to upstream reproduction costs?
+3. Can review, maintenance, compute, power, space, translation, or legal/accounting help return upstream without becoming cash?
+4. Does support silently purchase roadmap control, permanent support, or exclusivity?
+5. Is the maintainer’s ability to eat, sleep, and walk away treated as outside the dependency graph?
+
+## 7. A natural-language OSS field school
+
+### `[SOURCE POSITION]`
+
+The potato is more than an analogy.
+
+Given a structured workspace, a manifest, local `AGENTS.md` context rules, a license, notes, and Git history, a non-programmer may be able to experience the following through GitHub Codespaces, Copilot, Codex, or another natural-language interface:
+
+- separate observation from hypothesis before publishing;
+- preserve authorship, references, modifications, and provenance;
+- distinguish a canonical recipe from a translation or draft experiment;
+- try a branch, read a diff, and preserve a point in time with a commit;
+- share unknowns and missing supply through an issue;
+- state reuse boundaries through a license;
+- treat a fork as traceable derived research instead of automatically treating it as theft;
+- and use a manifest to read responsibility boundaries across projects.
+
+The goal is not merely “teach everybody to program.”
+
+```text
+ask a question in natural language
+    ↓
+read the scope through the workspace
+    ↓
+read cross-project responsibility through the manifest
+    ↓
+separate facts, hypotheses, and private context
+    ↓
+place a change in a note, issue, or branch
+    ↓
+experience lineage through diff, review, commit, and fork
+    ↓
+eat the potato and receive the result in the physical world
+```
+
+This can be tested as both:
+
+- an academic OSS experience: reproduction, falsification, sources, derived work, and preserved failure;
+- an OSS-spirit experience: sharing knowledge without sealing the next investigator out.
+
+“Spiritual” here is an experiential and cultural word, not evidence of a supernatural event. A participant’s inner experience matters, but it is not a substitute for experimental evidence.
+
+### `[HYPOTHESIS]` Why a potato may fit
+
+- Non-programmers can inspect inputs, operations, and outputs with ordinary senses.
+- The project contains several forms of IP: recipe text, experimental differences, photographs, failure records, and subjective taste notes.
+- It exposes the difference between possessing the same document and reproducing the same result.
+- A fork can document how the process changes under another kitchen’s conditions.
+- Cultivar differences and failures can remain research assets instead of being erased.
+- The edible artifact returns abstract Git operations to a human life cycle.
+
+### Authority boundary
+
+Codespaces is a work environment. Copilot, Codex, and similar agents are copilots. A human or appropriate authority still decides:
+
+- whether information may be published;
+- whether rights and license conditions are satisfied;
+- whether food, heat, and equipment can be handled safely;
+- whether to accept an agent’s proposal;
+- whether to commit, push, merge, or release;
+- and whether another person’s IP or private life may be recorded.
+
+Natural-language access does not automatically resolve responsibility or rights.
+
+## 8. What Codespaces, Copilot, and Codex can reproduce
+
+### The document-side experiment
+
+1. Fork the repository or create a working branch.
+2. Read the README.
+3. Create a note from [`TEMPLATE.ja.md`](TEMPLATE.ja.md).
+4. Record your kitchen conditions or comparison with another OSS project.
+5. Separate `[FACT]`, `[INTERPRETATION]`, `[HYPOTHESIS]`, and `[UNKNOWN]`.
+6. Submit a pull request or issue draft.
+
+Where the environment and permissions allow, an agent such as Copilot or Codex can search existing notes and `lib/` first, flag missing comparison fields, keep Japanese and en-US claim strength aligned, validate Markdown structure, and detect unsupported generalization.
+
+### The kitchen-side experiment
+
+A human supplies the potato, reads the safety boundary, cooks, observes, and tastes. Codespaces and Codex are not a heat source, a hand, a nose, a tongue, or a fire-safety decision.
+
+```text
+cloud:   documents, comparison, history, collaboration
+kitchen: potato, heat, smell, texture, safety, cleanup
+human:   the controller that closes both loops
+```
+
+## 9. `[HYPOTHESIS]` Marketing-cannon candidates
+
+These are copy candidates for comprehension testing, not established advertising facts.
+
+- “OSS is free to copy. A maintainer’s dinner is not.”
+- “A fork takes a second. A farm, kitchen, and maintenance cycle do not.”
+- “If you cannot live on source code, eat a potato first.”
+- “Eat the chips. Then ask who is doing the OSS dishes.”
+- “Free to use and free to grow are different properties.”
+- “You do not have to write code to experience forks, provenance, falsification, and knowledge gifts.”
+- “A natural-language OSS lab that starts with a potato.”
+
+Reject or rewrite a line if the joke survives but the reproduction-cost concept does not; if it becomes guilt marketing against users; if it reduces all supply to “pay us”; if PITETO refuses to record its own costs while judging other projects; or if non-technical people are treated as spectators instead of investigators.
+
+## 10. `[HYPOTHESIS]` Narrative nurturing
+
+The experiment should grow understanding instead of chasing one viral spike.
+
+```text
+Level 0: eat the potato
+Level 1: reuse the recipe
+Level 2: return conditions and failures in a note
+Level 3: experience branches, diffs, provenance, and licensing in natural language
+Level 4: discover invisible reproduction costs
+Level 5: compare another OSS project
+Level 6: test supply that does not purchase control
+Level 7: extract an institutional schema reusable elsewhere
+```
+
+Measure whether participants can explain, in their own words:
+
+- license permission and ecosystem sustainability are different;
+- the free-rider problem cannot be reduced to the personality of individual users;
+- maintainer life and exit rights are reproduction conditions;
+- support does not automatically buy merge authority, ideological control, or a permanent guarantee;
+- and Codespaces can fork a document, but not a potato or a human body.
+- agents assist human judgment but do not become the authority for IP, publication, or safety;
+- academic evidence and a participant’s experience of OSS spirit can coexist without becoming the same kind of claim.
+
+## 11. `[RESULT]`
+
+`NOT TESTED`
+
+No non-technical comprehension study, cross-project comparison, narrative A/B test, or improved supply return has been completed. The current result is a set of testable questions and a comparison template.
+
+## 12. `[INNER]` Field poem
+
+Clone a repository and the same words multiply.  
+Fry a potato and the potato gets smaller.
+
+Close an issue and the stomach opens again.  
+Stars do not wash the dishes.
+
+We placed one useful finding in the commons.  
+Somebody avoided one burned batch.  
+That difference is genuinely positive-sum.
+
+But if the person who found it has an empty plate,  
+the ecosystem has not finished building.
+
+The institutional theory can wait one minute.
+
+# Eat a potato first. 🥔
+
+## 13. `[UNKNOWN]`
+
+- Does this actually improve non-technical comprehension? `NOT TESTED`
+- Does the potato narrative travel across languages and cultures? `NOT TESTED`
+- How should comparison projects opt in? `unknown`
+- How should benefits, reproduction costs, and supply returns be measured? `unknown`
+- Where does marketing simplify the problem too far? `unknown`
+- Does the schema transfer beyond GitHub-hosted projects? `NOT TESTED`
+- Can non-programmers preserve provenance and authority boundaries through natural language alone? `NOT TESTED`
+- Copilot, Codex, and environment capabilities and permissions: `variable / NOT VERIFIED`
+- Will “OSS spirit” be misread as replacing academic evidence with belief? `NOT TESTED`
+
+## 14. Promotion candidates
+
+- README: a short doorway into this institutional experiment
+- `lib/`: none yet
+- Manifest: only generalized findings from actual comparisons, not PITETO-specific observations by default
+- Further tests:
+  - paraphrase testing with at least three non-technical participants;
+  - comparison across project size, license, and governance;
+  - misunderstanding logs for each marketing candidate;
+  - one non-cash supply experiment that also records recipient overhead.
+  - one non-programmer run through branch → note → diff → commit → issue;
+  - an agent-assisted versus unassisted comparison of provenance gaps and comprehension.
+
+## 15. Sources and provenance
+
+- Mitsuru Saito’s conversation, 2026-07-24
+- [`../README.md`](../README.md)
+- [`AGENTS.md`](AGENTS.md)
+- [`../AGENTS.md`](../AGENTS.md)
+- ZeroRoomLab-manifest note on the gift economy and OSS reproduction
+- No external statistics, GitHub usage data, or third-party maintainer study was used
+
+This is an institutional hypothesis, not legal advice, a finding against a named company, or a statement on behalf of other OSS projects.
