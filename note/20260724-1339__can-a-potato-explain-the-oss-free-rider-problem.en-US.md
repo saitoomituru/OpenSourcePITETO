@@ -198,6 +198,138 @@ We do not need science to erase spirit or spirit to overwrite science.
 
 “Asset” here does not mean a settled property valuation. It means an experience worth documenting, rerunning, and improving.
 
+### Good for whom?
+
+A “delicious” log needs an observer, not just a score.
+
+```yaml
+potato_taste_receipt:
+  batch_ref:
+  recipe_revision:
+  observed_at:
+  observer_ref: pseudonymous-or-private
+  observer_authority: self-report
+  world_or_setting:
+  purpose: snack | experiment | meal | social
+  body_context:
+    hunger: unknown
+    fatigue: unknown
+    dietary_restriction: private-or-declared
+  prior_expectation:
+  sample_state:
+    temperature:
+    cooling_time:
+    seasoning:
+  observation:
+    crispness:
+    aroma:
+    salt:
+    texture:
+  subjective_effect:
+    delicious_to_me:
+    would_eat_again:
+    memory_or_association:
+  observer_effect:
+  agent_role: structure-and-compare-only
+  unknown:
+  publication_scope:
+```
+
+An observer does not have to publish a legal name. A self-report is authoritative for that person’s experience. It does not represent everybody’s taste.
+
+### Potato observer effects
+
+This is not a claim that a kitchen experiment proves a quantum-physics observer effect. We separate at least three ordinary effects:
+
+1. **Destructive tasting:** eating one chip removes that sample.
+2. **Timing intervention:** five-minute sampling, opening the oven, and removing a chip can change heating and cooling.
+3. **Meaning intervention:** labels, expectations, hunger, somebody else’s review, and the work of cooking may change the evaluation.
+
+AI can organize these fields and compare observers without averaging them into one imaginary mouth. Deciding which observer a recipe is for, which review to adopt, or when to create another recipe branch becomes a meaning-management problem.
+
+## 7. Route to SphereOS Atlantis
+
+PITETO can hold one cooking run, one observer’s self-report, recipe differences, photographs, notes, and issue drafts locally.
+
+Route the problem toward the SphereOS Atlantis meaning and context-dimension shelves when it needs to:
+
+- preserve several observers without declaring one universal taste score;
+- distinguish the same person across time, body state, purpose, and place;
+- state which observer, World, and purpose a recipe is for;
+- separate an agent-organized log from an OAE actually experienced by a human;
+- prevent a current review from silently rewriting an older taste log;
+- carry failures, refusals, and uncompleted reviews to another agent with sources intact.
+
+Public references, currently written primarily in Japanese:
+
+- [SphereOS Atlantis](https://github.com/saitoomituru/SphereOS-Atlantis)
+- [Prompt Line Interface and Command Line Interface](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/docs/architecture/prompt-line-and-command-line-interface.ja.md)
+- [Sphere Architecture: Context Dimension, D Fold, and OAE](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/docs/tutorial/sphere-architecture.ja.md)
+- [MAGI 0.2.0 development-environment Skill bundle](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/docs/magi/magi-0.2.0-skill-bundle.ja.md)
+- [MAGI 0.2.1 OAE temporal integrity](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/docs/magi/magi-0.2.1-oae-temporal-integrity.ja.md)
+- [0.3xx.n multi-agent runtime research note](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/note/20260719-2143__0-3xx-n世代要件洗い出し-sphere-dosマルチエージェント実行系.ja.md)
+
+The user’s conversational label `FoldOS` is treated here as a route toward the current Sphere Context Dimension OS / D Fold design line. This note does not declare a new stable product ID.
+
+### Current implementation boundary
+
+Based on the public material reviewed on 2026-07-24:
+
+```text
+available scaffolding
+  ├─ prompt engineering that reads AGENTS.md, Manifest, and sources
+  ├─ PLI as a natural-language interaction surface
+  ├─ MAGI three-position and composite Skill workflow: ALPHA
+  ├─ dynamic source resolver: LOCAL-READ TESTED
+  └─ OAE temporal validator: ALPHA
+
+not implemented / waiting for resources or review
+  ├─ standalone Atlantis runtime
+  ├─ FAMLog / OAE persistence
+  ├─ 7D Fold runtime
+  ├─ integrated provider discovery / queue / dispatch runner
+  ├─ resident daemon / scheduler
+  └─ settled Archangel Host responsibilities
+```
+
+PITETO currently uses the prompt-bound route: an agent reads `AGENTS.md`, the Manifest, and referenced material through a PLI and structures notes and receipts. It does not claim that a resident meaning-management runtime is collecting taste logs.
+
+### `[HYPOTHESIS]` Angel leftovers and sin-left-behind tasks
+
+These are narrative labels, not an AI system for judging religious sin.
+
+```text
+angel leftovers
+  = tasks found by an audit position but left incomplete
+    because evidence, authority, or supply is missing
+
+sin left behind
+  = failure, refusal, timeout, Semantic Stop, or uncertainty
+    preserved for the next run instead of painted over as success
+```
+
+A future runner would need at least `source`, `observer`, `position`, `world`, `status`, `stop reason`, `required authority`, `required supply`, and `next review`. A MAGI or Archangel name must not generate truth, personality, punishment authority, or permission by itself.
+
+### Harmless yokai-and-ninja presentation
+
+For the en-US doorway, we can dress the same contract in light Japanese folklore flavor:
+
+```text
+Yokai Observer
+  keeps one strange, personal “this potato is good” experience
+
+Ninja Runner
+  quietly carries a scoped receipt without rewriting it
+
+MAGI audit positions
+  compare different rulers without voting one taste into universal truth
+
+Atlantis / D Fold
+  keeps different mouths, moments, and Worlds from being flattened together
+```
+
+The flavor is intentionally playful. It does not claim to represent all Japanese folklore, historical ninja, Shinto, Buddhism, or a canonical belief system. “Ninja” does not mean hidden authority, secret exfiltration, or action without approval. “Yokai” does not turn a participant into an exotic specimen. Engineering status, consent, safety, and provenance remain visible under the costume.
+
 ### `[HYPOTHESIS]` Why a potato may fit
 
 - Non-programmers can inspect inputs, operations, and outputs with ordinary senses.

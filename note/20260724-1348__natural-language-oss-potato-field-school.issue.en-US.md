@@ -102,6 +102,11 @@ physical_reproduction_cost_explained: yes | partial | no
 objective_recipe_receipt:
 subjective_taste_receipt:
 ai_claimed_to_taste: no | corrected | unknown
+observer_ref:
+observer_authority: self-report
+observer_context:
+observer_effect:
+target_eater_or_world:
 comparison_oss:
 similarity_found:
 difference_found:
@@ -122,6 +127,8 @@ Do not put personal data, health details, household finances, account credential
 - [ ] If comparing another OSS project, preserve project differences.
 - [ ] Separate claims ready for README promotion from hypotheses.
 - [ ] Identify one workspace, manifest, or context-rule improvement for the next run.
+- [ ] Record “good for whom?” and how observation or tasting changed the sample or evaluation.
+- [ ] If several observers or Worlds must be managed, produce a handoff receipt for SphereOS Atlantis.
 
 Headcount is not the only measure of research value. A detailed failure from the first participant is still a valid receipt.
 
@@ -145,6 +152,29 @@ Headcount is not the only measure of research value. A detailed failure from the
 > Turn both wheels—science and potato spirit. Eat a potato first.
 
 This is a pre-test copy candidate, not an established advertising claim.
+
+## SphereOS Atlantis handoff
+
+Keep a single self-reported taste log in the PITETO note shelf. Split out a SphereOS Atlantis issue when the work needs to:
+
+- preserve several observers, sessions, or Worlds;
+- prevent retroactive rewriting of an older log;
+- preserve each agent’s audit position;
+- continue unfinished work through a queue, scheduler, or daemon;
+- process “angel leftovers” or “sin left behind” as failure, refusal, or resource-wait records.
+
+PITETO does not currently launch the Atlantis runtime. Its present integration is prompt-bound through documents, the PLI concept, and agent reading of `AGENTS.md` and the Manifest.
+
+### Optional en-US flavor
+
+The issue may use a harmless `Yokai Observer` and `Ninja Runner` frame:
+
+- the Yokai Observer owns one situated taste experience;
+- the Ninja Runner carries a scoped receipt;
+- neither one receives secret authority;
+- consent, provenance, safety, and implementation status stay explicit.
+
+This is playful presentation, not a claim of canonical Japanese folklore or historical practice.
 
 ## User gates
 
