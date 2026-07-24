@@ -510,6 +510,8 @@ Codespaces、Copilot、Codex等は文書、比較、履歴、共同編集を補�
 
 AIはrecipeを構造化できます。その芋がうまいかは、お前の口と主観がreviewします。客観的な追試記録と、複製不能な個人の「うまい」を両方残すのが、このOSS芋研究の二輪です。
 
+スピリチュアルな物語は腐った芋を安全にせず、科学的な品質適合は度し難いFlavorを「うまい」に変えません。物語で安全停止を解除せず、安全・均質を需要の証明へ誤用せず、taste mismatchとカスハラを分ける。その適切な射程連携までが二輪です。
+
 「誰にとってうまいか」、観測者、身体Context、目的、時刻、観測による変化を複数agent・複数Worldで管理する段階は、[SphereOS Atlantis](https://github.com/saitoomituru/SphereOS-Atlantis)の[Context Dimension／D Fold／OAE](https://github.com/saitoomituru/SphereOS-Atlantis/blob/main/docs/tutorial/sphere-architecture.ja.md)へ接続する研究課題です。現状は文書・PLI・`AGENTS.md`／Manifest参照による導線であり、standalone runner、常駐daemon、OAE永続化は未実装です。
 
 # とりあえず芋食え。🥔
