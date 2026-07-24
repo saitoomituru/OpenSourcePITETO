@@ -1,9 +1,13 @@
 # `[Research Issue Draft]` Natural-Language OSS Potato Field School
 
-Created: 2026-07-24 13:48 JST  
-Status: `[DRAFT]` `[HYPOTHESIS]` `[LOGISTICS]`  
-Publication: repository-local draft; no live GitHub Issue has been opened  
-Japanese issue draft: [自然言語OSS芋寺子屋](20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md)  
+Created: 2026-07-24 13:48 JST
+
+Status: `[DRAFT]` `[HYPOTHESIS]` `[LOGISTICS]`
+
+Publication: repository-local draft; no live GitHub Issue has been opened
+
+Japanese issue draft: [自然言語OSS芋寺子屋](20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md)
+
 Research note: [Can a Potato Explain the OSS Free-Rider Problem?](20260724-1339__can-a-potato-explain-the-oss-free-rider-problem.en-US.md)
 
 ## Issue title
@@ -132,9 +136,12 @@ Headcount is not the only measure of research value. A detailed failure from the
 
 ## Marketing-cannon candidate
 
-> You do not have to write code to fork knowledge, preserve sources, and return a falsification to OSS research.  
-> Codespaces can fork the document. It cannot fork the potato or your body.  
-> AI can organize the recipe. Your mouth has to review the flavor.  
+> You do not have to write code to fork knowledge, preserve sources, and return a falsification to OSS research.
+>
+> Codespaces can fork the document. It cannot fork the potato or your body.
+>
+> AI can organize the recipe. Your mouth has to review the flavor.
+>
 > Turn both wheels—science and potato spirit. Eat a potato first.
 
 This is a pre-test copy candidate, not an established advertising claim.
