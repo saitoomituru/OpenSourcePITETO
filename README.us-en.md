@@ -238,6 +238,12 @@ Tested with:
 
 The three photos document the post-fry, oven-running, and post-oven states of this run. They do not establish one universal cook time across potatoes, slice thicknesses, or appliances.
 
+## Contribute an experiment note
+
+Reproductions, modifications, failed batches, and humidity-recovery tests can be recorded under [`note/`](./note/). Read [`note/AGENTS.md`](./note/AGENTS.md) and copy [`note/TEMPLATE.ja.md`](./note/TEMPLATE.ja.md) before writing.
+
+Keep observations, interpretation, hypotheses, inner notes or project poetry, and unknowns separate. A draft note does not automatically change the canonical Japanese recipe.
+
 ## Philosophy
 
 Get the potatoes as a gift.

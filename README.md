@@ -487,6 +487,17 @@ POTATO_RECOVERY
 
 ---
 
+## 改良・再現実験のノートを追加する
+
+別品種、スライス厚、器具、フレーバー、湿気Recovery等を試した場合は、[`note/`](./note/)へ実験ノートを追加できます。
+
+- [`note/AGENTS.md`](./note/AGENTS.md) — 観測、考察、仮説、ポエム、unknownの分離規約
+- [`note/TEMPLATE.ja.md`](./note/TEMPLATE.ja.md) — 複製用テンプレート
+
+成功だけでなく、フニャった、焦げた、味が付かなかった等の失敗記録も歓迎します。ノートは`[DRAFT]`であり、置いただけで標準レシピへ昇格しません。
+
+---
+
 ## Philosophy
 
 芋はもらう。
