@@ -151,6 +151,53 @@ This can be tested as both:
 
 “Spiritual” here is an experiential and cultural word, not evidence of a supernatural event. A participant’s inner experience matters, but it is not a substitute for experimental evidence.
 
+### Two wheels: science and potato spirit
+
+AI can structure the recipe.
+
+- split the process into stages;
+- tabulate temperature, time, tools, and changes;
+- connect photographs, commits, reviews, and failure conditions;
+- organize common results and counterexamples across reruns;
+- store “observed” separately from “tasted good to me.”
+
+But whether that potato tastes good can only be tested by the mouth and subjective experience of the person eating it.
+
+Even with the same temperature, cultivar, and thickness, salt, aroma, crunch, memory, hunger, and company change the experience. AI can record and compare a person’s review. It cannot honestly claim to have tasted the chip on that person’s behalf.
+
+```text
+science / AI wheel
+  ├─ recipe
+  ├─ conditions
+  ├─ differences
+  ├─ reproduction
+  ├─ counterexamples
+  └─ review organization
+
+mouth / self wheel
+  ├─ delicious
+  ├─ preference
+  ├─ memory
+  ├─ body
+  ├─ who shared it
+  └─ would eat again
+
+             🥔
+      both wheels turn: POTATO DEPLOYED
+```
+
+Objective records alone can lose what humans cared about. Subjective experience alone leaves no trail for another person to approach the same result.
+
+We do not need science to erase spirit or spirit to overwrite science.
+
+> AI and science can maintain the road toward a good potato.
+>
+> Your mouth performs the final review.
+>
+> A good potato is a non-fungible personal experience and a human asset worth preserving.
+
+“Asset” here does not mean a settled property valuation. It means an experience worth documenting, rerunning, and improving.
+
 ### `[HYPOTHESIS]` Why a potato may fit
 
 - Non-programmers can inspect inputs, operations, and outputs with ordinary senses.
@@ -207,6 +254,8 @@ These are copy candidates for comprehension testing, not established advertising
 - “Free to use and free to grow are different properties.”
 - “You do not have to write code to experience forks, provenance, falsification, and knowledge gifts.”
 - “A natural-language OSS lab that starts with a potato.”
+- “AI can read the recipe. Your mouth has to review the flavor.”
+- “Reproducible recipe, non-fungible deliciousness. Preserve both.”
 
 Reject or rewrite a line if the joke survives but the reproduction-cost concept does not; if it becomes guilt marketing against users; if it reduces all supply to “pay us”; if PITETO refuses to record its own costs while judging other projects; or if non-technical people are treated as spectators instead of investigators.
 
@@ -234,6 +283,8 @@ Measure whether participants can explain, in their own words:
 - and Codespaces can fork a document, but not a potato or a human body.
 - agents assist human judgment but do not become the authority for IP, publication, or safety;
 - academic evidence and a participant’s experience of OSS spirit can coexist without becoming the same kind of claim.
+- AI is not the tasting subject and cannot validate “delicious” on a person’s behalf;
+- subjective review can be valuable while remaining distinct from objective recipe reproducibility.
 
 ## 11. `[RESULT]`
 

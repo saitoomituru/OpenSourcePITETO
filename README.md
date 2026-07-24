@@ -498,6 +498,22 @@ POTATO_RECOVERY
 
 ---
 
+## 芋からOSS知財管理を体験する
+
+OpenSourcePITETOを、非プログラマが自然言語でfork、Provenance、license、branch、diff、Issue、再生産費を体験するOSS寺子屋として使えるか研究中です。
+
+- [日本語研究note: 芋でOSSフリーライド問題を説明できるか](./note/20260724-1339__芋でOSSフリーライド問題を説明できるか.ja.md)
+- [日本語Issue草案: 自然言語OSS芋寺子屋](./note/20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md)
+- [English (US) research issue draft](./note/20260724-1348__natural-language-oss-potato-field-school.issue.en-US.md)
+
+Codespaces、Copilot、Codex等は文書、比較、履歴、共同編集を補助できますが、権利・公開・食品安全の責任主体ではありません。文書はforkできても、芋と身体はforkできません。
+
+AIはrecipeを構造化できます。その芋がうまいかは、お前の口と主観がreviewします。客観的な追試記録と、複製不能な個人の「うまい」を両方残すのが、このOSS芋研究の二輪です。
+
+# とりあえず芋食え。🥔
+
+---
+
 ## Philosophy
 
 芋はもらう。

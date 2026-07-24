@@ -244,6 +244,20 @@ Reproductions, modifications, failed batches, and humidity-recovery tests can be
 
 Keep observations, interpretation, hypotheses, inner notes or project poetry, and unknowns separate. A draft note does not automatically change the canonical Japanese recipe.
 
+## Experience OSS stewardship through a potato
+
+We are testing whether OpenSourcePITETO can work as a natural-language OSS field school where non-programmers experience forks, provenance, licenses, branches, diffs, issues, and reproduction costs.
+
+- [en-US research note: Can a Potato Explain the OSS Free-Rider Problem?](./note/20260724-1339__can-a-potato-explain-the-oss-free-rider-problem.en-US.md)
+- [en-US issue draft: Natural-Language OSS Potato Field School](./note/20260724-1348__natural-language-oss-potato-field-school.issue.en-US.md)
+- [Japanese source issue draft](./note/20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md)
+
+Codespaces, Copilot, Codex, and similar tools can assist with documents, comparisons, history, and collaboration. They are not the authority for rights, publication, or food safety. You can fork the document. You cannot fork the potato or the human body.
+
+AI can structure the recipe. Your mouth and subjective experience review whether the chip tastes good. This OSS potato lab preserves both wheels: objective rerun records and the non-fungible personal experience of “delicious.”
+
+# Eat a potato first. 🥔
+
 ## Philosophy
 
 Get the potatoes as a gift.

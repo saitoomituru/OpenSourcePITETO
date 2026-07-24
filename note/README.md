@@ -21,5 +21,9 @@ cp note/TEMPLATE.ja.md note/20260724-1200__品種違い再現試験.ja.md
 ## 現在の索引
 
 - [`TEMPLATE.ja.md`](TEMPLATE.ja.md) — 日本語実験ノートの複製用テンプレート
+- [`20260724-1339__芋でOSSフリーライド問題を説明できるか.ja.md`](20260724-1339__芋でOSSフリーライド問題を説明できるか.ja.md) — `[HYPOTHESIS]` `[LOGISTICS]` 芋、自然言語agent、構造化workspaceでOSS知財管理と再生産問題を体験できるか
+- [`20260724-1339__can-a-potato-explain-the-oss-free-rider-problem.en-US.md`](20260724-1339__can-a-potato-explain-the-oss-free-rider-problem.en-US.md) — 上記研究noteのen-US意訳
+- [`20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md`](20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md) — 非プログラマ向け体験試験の日本語Issue草案
+- [`20260724-1348__natural-language-oss-potato-field-school.issue.en-US.md`](20260724-1348__natural-language-oss-potato-field-school.issue.en-US.md) — 外部参加用en-US Issue draft
 
 ノートを追加した場合は、この索引へ題名、種別、対象revisionを追記してください。
