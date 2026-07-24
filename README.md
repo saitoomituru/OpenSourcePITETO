@@ -36,7 +36,7 @@
 ## Potato Thermal Technology 家庭版OSS実装
 
 <p align="center">
-  <img src="./img/DD696DC3-9D93-4840-9973-9CEF390723DA_1_102_o.jpeg" alt="家庭用オーブンで追い乾燥した自作ポテトチップス" width="560">
+  <img src="./img/04-finished-potato-chips.jpg" alt="家庭用オーブンで追い乾燥した自作ポテトチップス" width="560">
 </p>
 
 > 実機試験の成果物。見た目を作るための生成画像ではなく、このREADMEに記載した家庭設備で調理したポテトチップスです。
@@ -242,7 +242,7 @@ HYPER BINDING
 その後、クッキングシート上で余分な油を落とします。
 
 <p align="center">
-  <img src="./img/4A2959EE-278D-4AD4-B0AA-0A8D08460C21_1_102_o.jpeg" alt="揚げ上がり直後に味付けして油を切っているポテトチップス" width="480">
+  <img src="./img/02-seasoning-and-oil-drain.jpg" alt="揚げ上がり直後に味付けして油を切っているポテトチップス" width="480">
 </p>
 
 > 揚げ上がり直後にフレーバーを投入し、余分な油を切っている状態。
@@ -271,7 +271,7 @@ HYPER BINDING
 Fry工程ですでに作った多孔質構造から残留水分を抜き、サクサクした構造へ仕上げます。
 
 <p align="center">
-  <img src="./img/12526F57-AC0B-4E19-8716-B4443740CC0A_1_102_o.jpeg" alt="210℃設定で追い乾燥中の家庭用オーブン" width="480">
+  <img src="./img/03-oven-210c.jpg" alt="210℃設定で追い乾燥中の家庭用オーブン" width="480">
 </p>
 
 > 実機のオーブン設定表示。写真の210℃は揚げ油ではなく、Oven工程の設定温度です。

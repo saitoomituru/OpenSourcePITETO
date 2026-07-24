@@ -28,7 +28,7 @@ Call it:
 ## Potato Thermal Technology: the home OSS port
 
 <p align="center">
-  <img src="./img/DD696DC3-9D93-4840-9973-9CEF390723DA_1_102_o.jpeg" alt="Homemade potato chips after the oven drying stage" width="560">
+  <img src="./img/04-finished-potato-chips.jpg" alt="Homemade potato chips after the oven drying stage" width="560">
 </p>
 
 > This is the edible output from the documented household setup, not a generated beauty shot.
@@ -122,7 +122,7 @@ If the chip is already bone-dry and all the surface oil is gone, the powder will
 Right after frying, the chip still has surface oil and residual water. Use that window as the binding interface.
 
 <p align="center">
-  <img src="./img/4A2959EE-278D-4AD4-B0AA-0A8D08460C21_1_102_o.jpeg" alt="Freshly fried potato chips being seasoned and drained" width="480">
+  <img src="./img/02-seasoning-and-oil-drain.jpg" alt="Freshly fried potato chips being seasoned and drained" width="480">
 </p>
 
 > Seasoned immediately after frying, then held while the excess oil drains.
@@ -137,7 +137,7 @@ Move the drained chips into an oven preheated to **210°C / 410°F**.
 The goal is not a second fry. It is a short, high-temperature removal of residual moisture from the porous structure already formed during frying.
 
 <p align="center">
-  <img src="./img/12526F57-AC0B-4E19-8716-B4443740CC0A_1_102_o.jpeg" alt="Household oven operating at a 210 degree Celsius setpoint" width="480">
+  <img src="./img/03-oven-210c.jpg" alt="Household oven operating at a 210 degree Celsius setpoint" width="480">
 </p>
 
 > The test appliance displaying the oven setpoint. This is evidence of the oven stage, not an oil-temperature instruction.
