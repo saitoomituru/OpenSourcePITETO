@@ -1,6 +1,8 @@
 # Open Source Potato Chips 🥔
 ## 家庭用 Potato Thermal Technology
 
+**日本語（正本）** | [English (US) — Texas garage-lab edition](./README.us-en.md)
+
 > 働かない。でもポテチは食う。  
 > 成果物は食う。有益だった知識は社会へ還元する。
 
@@ -32,6 +34,12 @@
 名付けて、
 
 ## Potato Thermal Technology 家庭版OSS実装
+
+<p align="center">
+  <img src="./img/DD696DC3-9D93-4840-9973-9CEF390723DA_1_102_o.jpeg" alt="家庭用オーブンで追い乾燥した自作ポテトチップス" width="560">
+</p>
+
+> 実機試験の成果物。見た目を作るための生成画像ではなく、このREADMEに記載した家庭設備で調理したポテトチップスです。
 
 ---
 
@@ -233,6 +241,12 @@ HYPER BINDING
 
 その後、クッキングシート上で余分な油を落とします。
 
+<p align="center">
+  <img src="./img/4A2959EE-278D-4AD4-B0AA-0A8D08460C21_1_102_o.jpeg" alt="揚げ上がり直後に味付けして油を切っているポテトチップス" width="480">
+</p>
+
+> 揚げ上がり直後にフレーバーを投入し、余分な油を切っている状態。
+
 ---
 
 ## 5. Oven工程
@@ -255,6 +269,12 @@ HYPER BINDING
 です。
 
 Fry工程ですでに作った多孔質構造から残留水分を抜き、サクサクした構造へ仕上げます。
+
+<p align="center">
+  <img src="./img/12526F57-AC0B-4E19-8716-B4443740CC0A_1_102_o.jpeg" alt="210℃設定で追い乾燥中の家庭用オーブン" width="480">
+</p>
+
+> 実機のオーブン設定表示。写真の210℃は揚げ油ではなく、Oven工程の設定温度です。
 
 ```text
 Fryer
@@ -463,6 +483,8 @@ POTATO_RECOVERY
 - Human-in-the-loop sampling: 5 min interval
 - Result: **ちゃんとポテチになった 😼🥔**
 
+画像3点は、この試験の揚げ上がり、オーブン運転、焼成後を記録したものです。個別の芋、スライス厚、機器差を越えた固定時間までは主張しません。
+
 ---
 
 ## Philosophy
@@ -483,6 +505,18 @@ POTATO_RECOVERY
 知識は囲わない。
 
 # 合法オープンソースポテチです。🥔🌱
+
+---
+
+## README画像の圧縮
+
+`img/` のJPEGは、公開前に長辺1280pxへ縮小し、Exif/GPS等の撮影メタデータを除去しています。再処理用スクリプトは [`lib/compress_readme_images.py`](./lib/compress_readme_images.py) です。
+
+```bash
+python3 lib/compress_readme_images.py
+```
+
+実行には `ffmpeg` が必要です。スクリプトは変換成功後に元JPEGを同名の圧縮済みファイルへ置き換えます。
 
 ---
 
