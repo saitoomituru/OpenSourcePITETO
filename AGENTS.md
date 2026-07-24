@@ -88,8 +88,15 @@ rg -n "<今回の入力・出力・処理を表す語>" .
 - Meaning、World、Registry、OAE、Context Dimension
 - Sphere固有のRuntime契約
 - Meaning／Vessel／Bridge／Supplyの責務定義
+- 「誰にとってうまいか」をObserver、時刻、目的、身体Context、World、Provenance付きで複数agent・複数session間管理する課題
+- 味覚logの採用・棄却・再解釈を、元観測を消さず別Foldへ配置する課題
+- MAGI等の監査Position、runner、scheduler、daemon、未処理task ledgerを必要とする課題
 
 料理用スクリプトや画像圧縮を、名前の類似だけでAtlantis Runtimeの一部へ昇格しません。Atlantisの概念を参照する場合も、OpenSourcePITETOのruntime依存にはしません。
+
+現時点のOpenSourcePITETOからSphereOS Atlantisへの接続は、文書linkと、PLI上のagentが`AGENTS.md`、Manifest、対象sourceを読むprompt-boundな導線です。PITETOがstandalone Atlantis runner、OAE永続化、7D Fold runtime、MAGI／Archangel常駐daemonを実行しているとは記述しません。
+
+将来の「天使の積み残し／罪残しtask」は、未処理、失敗、拒否、timeout、Semantic Stop、human confirmation待ち等をsource付きで残す比喩・要件候補です。現在の実装済み機能名や、宗教的な罪の自動判定器へ変換しません。runner側の設計、実装状態、resource-waitはSphereOS Atlantis repositoryで扱い、PITETOにはその結果をbackfillしません。
 
 ## 変更と検証
 
