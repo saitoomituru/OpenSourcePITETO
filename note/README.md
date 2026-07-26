@@ -26,5 +26,7 @@ cp note/TEMPLATE.ja.md note/20260724-1200__品種違い再現試験.ja.md
 - [`20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md`](20260724-1348__自然言語OSS芋寺子屋_issue草案.ja.md) — 非プログラマ向け体験試験の日本語Issue草案
 - [`20260724-1348__natural-language-oss-potato-field-school.issue.en-US.md`](20260724-1348__natural-language-oss-potato-field-school.issue.en-US.md) — 外部参加用en-US Issue draft
 - [`20260726-1323__悪天候で一次フライがご機嫌斜めになるか.ja.md`](20260726-1323__悪天候で一次フライがご機嫌斜めになるか.ja.md) — `[FAILURE]` `[HYPOTHESIS]` `[LOGISTICS]` 高畠アメダスを地域proxyにした悪天候と一次フライ不調の切り分け
+- [`20260726-1349__送風をオーブン前後へ追加した実機結果.ja.md`](20260726-1349__送風をオーブン前後へ追加した実機結果.ja.md) — `[REPRODUCTION]` `[IMPROVEMENT]` `[HYPOTHESIS]` Oven前後の送風追加で「ご機嫌になった」という一回のHuman Observer結果
+- [`20260726-1355__自由研究PDFビルドツール実装可能性調査.ja.md`](20260726-1355__自由研究PDFビルドツール実装可能性調査.ja.md) — `[HYPOTHESIS]` `[LOGISTICS]` Markdown、数式、画像、mindmapからPDFを再構築する案の依存・font・license Review Gate
 
 ノートを追加した場合は、この索引へ題名、種別、対象revisionを追記してください。
